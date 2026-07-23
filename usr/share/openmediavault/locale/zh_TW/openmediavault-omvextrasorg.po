@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the openmediavault-omvextrasorg package.
 # 
 # Translators:
-# kochin <kochinc@outlook.com>, 2014-2023
+# kochin <kochinc@outlook.com>, 2014-2023,2026
 msgid ""
 msgstr ""
 "Project-Id-Version: openmediavault-omvextras.org\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-31 01:24+0000\n"
 "PO-Revision-Date: 2013-10-28 11:35+0000\n"
-"Last-Translator: kochin <kochinc@outlook.com>, 2014-2023\n"
+"Last-Translator: kochin <kochinc@outlook.com>, 2014-2023,2026\n"
 "Language-Team: Chinese (Taiwan) (http://app.transifex.com/openmediavault-plugin-developers/openmediavault-omvextrasorg/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,40 +22,40 @@ msgid "Cleaning apt ..."
 msgstr "清理 apt ..."
 
 msgid "Cleaning apt and resetting repos ..."
-msgstr ""
+msgstr "清理 apt 並重新設置套件庫中 ..."
 
 msgid "Disable backports"
-msgstr ""
+msgstr "停用向後移植"
 
 msgid "Disabling backports ..."
-msgstr ""
+msgstr "停用向後移植中 ..."
 
 msgid "Docker Wiki"
-msgstr ""
+msgstr "Docker 維基"
 
 msgid "Docker repo"
-msgstr ""
+msgstr "Docker 套件庫"
 
 msgid "Enable backports"
-msgstr ""
+msgstr "啟用向後移植"
 
 msgid "Enabling backports ..."
-msgstr ""
+msgstr "啟用向後移植中 ..."
 
 msgid "Go to the Docker Wiki link below for more info"
-msgstr ""
+msgstr "前往以下的 Docker 維基連結以得到更多資訊"
 
 msgid "Updated omv-extras settings."
-msgstr ""
+msgstr "已更新 omv-extras 設定。"
 
 msgid "Wiki"
-msgstr ""
+msgstr "維基"
 
 msgid "apt clean"
-msgstr "apt clean"
+msgstr "apt 清理"
 
 msgid "apt clean repos"
-msgstr ""
+msgstr "apt 清理套件庫"
 
 msgid "omv-extras"
 msgstr "omv-extras"

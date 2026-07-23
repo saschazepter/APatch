@@ -3,16 +3,17 @@
 # This file is distributed under the same license as the openmediavault-omvextrasorg package.
 # 
 # Translators:
-# Karl Jonatan Nyberg, 2026
-# Karl Jonatan Nyberg, 2021
-# Karl Jonatan Nyberg, 2021
+# Jonatan Nyberg, 2026
+# Jonatan Nyberg, 2021,2026
+# Jonatan Nyberg, 2021
+# Jonatan Nyberg, 2021
 msgid ""
 msgstr ""
 "Project-Id-Version: openmediavault-omvextras.org\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-31 01:24+0000\n"
 "PO-Revision-Date: 2013-10-28 11:35+0000\n"
-"Last-Translator: Karl Jonatan Nyberg, 2026\n"
+"Last-Translator: Jonatan Nyberg, 2021,2026\n"
 "Language-Team: Swedish (http://app.transifex.com/openmediavault-plugin-developers/openmediavault-omvextrasorg/language/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,43 +22,43 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Cleaning apt ..."
-msgstr ""
+msgstr "Rensar apt…"
 
 msgid "Cleaning apt and resetting repos ..."
-msgstr ""
+msgstr "Rensar apt och återställer förråd…"
 
 msgid "Disable backports"
-msgstr ""
+msgstr "Inaktivera backports"
 
 msgid "Disabling backports ..."
-msgstr ""
+msgstr "Inaktiverar backports…"
 
 msgid "Docker Wiki"
-msgstr ""
+msgstr "Docker-wiki"
 
 msgid "Docker repo"
-msgstr ""
+msgstr "Docker-förråd"
 
 msgid "Enable backports"
-msgstr ""
+msgstr "Aktivera backports"
 
 msgid "Enabling backports ..."
-msgstr ""
+msgstr "Aktiverar backports…"
 
 msgid "Go to the Docker Wiki link below for more info"
-msgstr ""
+msgstr "Öppna länken till Docker-wikin nedan för mer information"
 
 msgid "Updated omv-extras settings."
-msgstr ""
+msgstr "omv-extras-inställningarna har uppdaterats."
 
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 msgid "apt clean"
 msgstr "apt clean"
 
 msgid "apt clean repos"
-msgstr ""
+msgstr "Rensa apt-förråd"
 
 msgid "omv-extras"
-msgstr ""
+msgstr "omv-extras"
