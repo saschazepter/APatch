@@ -1,3 +1,9 @@
+openmediavault-omvextrasorg (8.0.3) stable; urgency=low
+
+  * Add seabios to backports pinning
+
+ -- OpenMediaVault Plugin Developers <plugins@omv-extras.org>  Thu, 23 Jul 2026 17:51:15 +0000
+
 openmediavault-omvextrasorg (8.0.2) stable; urgency=low
 
   * Hide error output since it is harmless
